@@ -12,7 +12,7 @@ click==7.1.2
 importlib-metadata==1.7.0
 itsdangerous==1.1.0
 jinja2==2.11.3
-kombu==4.6.11
+kombu==5.6.2
 markupsafe==1.1.1
 more-itertools==8.14.0
 packaging==20.4
